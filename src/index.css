@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "montserrat";
+}
+
+::selection {
+  color: #ffcc8b;
+}
